@@ -1,3 +1,4 @@
 Info.txt
 Line
 Line
+Some text
