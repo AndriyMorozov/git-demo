@@ -1,4 +1,4 @@
 Demo.txt
 Second line
 Some text
-ghbrkfl hzlrf ghjuhfvyjuj rjle
+приклад рядка коду
